@@ -1,4 +1,4 @@
-# Last Mile Delivery Batching Solution
+# Delivery Batching Solution
 
 ## Overview
 In today’s last-mile delivery ecosystem, optimizing for speed and cost efficiencies is crucial. Smarter algorithms play a vital role in streamlining the delivery process. This solution utilizes Google OR Tools for solving the Vehicle Routing Problem (VRP) with pickup and delivery constraints, along with custom conditions to assign delivery personnel to orders efficiently.
